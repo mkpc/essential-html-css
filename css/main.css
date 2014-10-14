@@ -30,14 +30,16 @@ h1{
 h2,h3{
 	color: #505050;
 }
+
 h2{
 	font-size: 150%;
 	margin: 0;
 }
-h3{
 
+h3{
 	font-size: 125%;
 }
+
 main{
 	margin-left: 30%;
 	margin-right: 20px;
@@ -46,7 +48,6 @@ main{
 	background-image: url(../img/ricepaper_v3.png);
 	opacity: 0.9;
 }
-
 
 header{
 	padding: 1em;
@@ -62,7 +63,6 @@ header p{
 }
 
 section, footer{
-
 	padding: 1em;
 }
 
@@ -85,7 +85,6 @@ dd p.italic{
 }
 
 footer{
-
 	text-align:right;
 	background-color: #FC892F;
 	border-top: solid 5px #EC791F;
